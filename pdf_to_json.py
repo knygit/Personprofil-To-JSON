@@ -9,8 +9,8 @@ Requirements:
     pip install pdfminer.six pikepdf Pillow
 
 Usage:
-    python pdf_to_json.py "Kent Nygreen.PDF"
-    python pdf_to_json.py "Kent Nygreen.PDF" --output result.json
+    python pdf_to_json.py "Profil.PDF"
+    python pdf_to_json.py "Profil.PDF" --output result.json
     python pdf_to_json.py *.PDF
     python pdf_to_json.py --dir /path/to/pdfs
     python pdf_to_json.py --dir /path/to/pdfs --output-dir /path/to/json

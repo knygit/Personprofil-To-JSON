@@ -32,7 +32,7 @@ python pdf_to_json.py --dir /sti/til/pdfer --output-dir /sti/til/json
 ```json
 {
   "profil": {
-    "navn": "Kent Nygreen",
+    "navn": "Jens Jensen",
     "projekt": "Eksempel",
     "dato": "01.01.2025 12:00",
     "type": "e-fivefactor"
